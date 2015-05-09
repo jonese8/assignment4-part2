@@ -1,0 +1,11 @@
+//style.css - CS290, Emmalee Jones, Assignment 4.2
+
+label {
+display: block;
+margin: 6px 0;
+}
+button, input[type=submit] {
+margin-bottom: 6px;
+}
+
+
